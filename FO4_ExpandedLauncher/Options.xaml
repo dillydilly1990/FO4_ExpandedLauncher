@@ -25,9 +25,5 @@
             <CheckBox x:Name="CustomCheckbox" Content="Use Custom Executable File" Click="CheckBox_Click"/>
             <TextBox x:Name="CustomEXE" IsEnabled="False" Width="250" />
         </StackPanel>
-		<StackPanel Orientation="Vertical" Grid.Column="2" HorizontalAlignment="Center" Margin="0,20">
-            <CheckBox x:Name="CustomCheckbox" Content="Use Custom Executable File" Click="CheckBox_Click"/>
-            <TextBox x:Name="CustomEXE" IsEnabled="False" Width="250" />
-        </StackPanel>
     </Grid>
 </Page>
